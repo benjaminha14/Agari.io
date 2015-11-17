@@ -15,7 +15,7 @@ public class Main {
      frame.pack();
      frame.setVisible(true);
      frame.getContentPane().setBackground(new Color(240,234,214));
-     frame.setSize(800,600);	
+     frame.setSize(800,600)
    }
    
 
